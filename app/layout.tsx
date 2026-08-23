@@ -1,8 +1,8 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Mobility UI Source Baseline",
-  description: "Editable React baseline derived from supplied mobile UI mockup patterns.",
+  title: "Kapit Design Build",
+  description: "Interactive Kapit community-help prototype for LPU Cavite.",
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
